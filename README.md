@@ -1,8 +1,6 @@
 # Prithish Soni - Data Analyst Portfolio
 ## Following are my projects in SQL, Python, Tableau and Excel
 
-Website: [Add your website link here](https://prithishsoni.com)
-
 LinkedIn: [Prithish Soni](https://www.linkedin.com/in/prithishsoni)
 
 
